@@ -8,6 +8,6 @@ gradle test
 
 -Dtest.single
 
-"gradle -Dtest.single=a/b/ test" 
+"./gradlew -Dtest.single=a/b/ test" 
 
 The Items in inClass are going to be items that we cover together in class together.
