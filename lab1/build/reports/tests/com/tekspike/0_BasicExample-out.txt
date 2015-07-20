@@ -1,0 +1,7 @@
+the tail : [3]
+the tail : class java.util.ArrayList
+the tail : [8]
+the tail : class java.util.ArrayList
+the tail : [34]
+the tail : class java.util.ArrayList
+

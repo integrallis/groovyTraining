@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tekspike.Lab1_4Tests" tests="7" failures="6" errors="0" timestamp="2014-02-26T20:14:57" hostname="lawn-143-215-59-125.lawn.gatech.edu" time="0.419">
+  <properties/>
+  <testcase name="test1" classname="com.tekspike.Lab1_4Tests" time="0.219"/>
+  <testcase name="test2" classname="com.tekspike.Lab1_4Tests" time="0.161">
+    <failure message="Condition not satisfied:&#10;&#10;result == [2,4,6,8,10]&#10;|      |&#10;null   false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+result == [2,4,6,8,10]
+|      |
+null   false
+
+	at com.tekspike.Lab1_4Tests.test2(Lab1_4Tests.groovy:33)
+</failure>
+  </testcase>
+  <testcase name="test4" classname="com.tekspike.Lab1_4Tests" time="0.003">
+    <failure message="Condition not satisfied:&#10;&#10;result == [3,4,5]&#10;|      |&#10;null   false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+result == [3,4,5]
+|      |
+null   false
+
+	at com.tekspike.Lab1_4Tests.test4(Lab1_4Tests.groovy:42)
+</failure>
+  </testcase>
+  <testcase name="test5" classname="com.tekspike.Lab1_4Tests" time="0.002">
+    <failure message="Condition not satisfied:&#10;&#10;i == 15&#10;| |&#10;| false&#10;null&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+i == 15
+| |
+| false
+null
+
+	at com.tekspike.Lab1_4Tests.test5(Lab1_4Tests.groovy:52)
+</failure>
+  </testcase>
+  <testcase name="test6" classname="com.tekspike.Lab1_4Tests" time="0.002">
+    <failure message="Condition not satisfied:&#10;&#10;i == 5&#10;| |&#10;| false&#10;null&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+i == 5
+| |
+| false
+null
+
+	at com.tekspike.Lab1_4Tests.test6(Lab1_4Tests.groovy:61)
+</failure>
+  </testcase>
+  <testcase name="test7" classname="com.tekspike.Lab1_4Tests" time="0.001">
+    <failure message="Condition not satisfied:&#10;&#10;i == 1&#10;| |&#10;| false&#10;null&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+i == 1
+| |
+| false
+null
+
+	at com.tekspike.Lab1_4Tests.test7(Lab1_4Tests.groovy:70)
+</failure>
+  </testcase>
+  <testcase name="test8" classname="com.tekspike.Lab1_4Tests" time="0.029">
+    <failure message="Condition not satisfied:&#10;&#10;s == &quot;1,2,3,4,5&quot;&#10;| |&#10;| false&#10;null&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+s == &quot;1,2,3,4,5&quot;
+| |
+| false
+null
+
+	at com.tekspike.Lab1_4Tests.test8(Lab1_4Tests.groovy:80)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

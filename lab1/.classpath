@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/groovy"/>
+	<classpathentry kind="src" path="src/test/groovy"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/1.7.5/4b770bc188535646e1e53a695ce4fd0c28beaa2a/groovy-all-1.7.5-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/1.7.5/7d797d9aeabf4e8cd73a89c2e6f08b01882916d1/groovy-all-1.7.5.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/0.5-groovy-1.7/30fc4b307d31812e874330a1a2be3f092001ea81/spock-core-0.5-groovy-1.7-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/0.5-groovy-1.7/fb43e6e46414ebb8c67695439d36c814007bf6b5/spock-core-0.5-groovy-1.7.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/junit/junit/4.8.1/2a699fa5026aef66411ed1f57be2af0b541f8990/junit-4.8.1-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/junit/junit/4.8.1/f2975548f836416306ef1dee748d956f04733915/junit-4.8.1.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.2/e9be1c6a53b4d4e7564756e924a9fa8b1661ec6a/hamcrest-core-1.2-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.2/44d12ff84e43c7d0539131f75c92f2f88dba6549/hamcrest-core-1.2.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/cglib/cglib-nodep/2.2/962f2bbd66901a9d67b0bb3c8c4a64ce6de0a8c4/cglib-nodep-2.2-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/cglib/cglib-nodep/2.2/59afed7ab65e7ec6585d5bc60556c3cbd203532b/cglib-nodep-2.2.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.2/71909ee0264af468fe26f0a2467d01bcb85f6fa9/objenesis-1.2-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.2/bfcb0539a071a4c5a30690388903ac48c0667f2a/objenesis-1.2.jar" exported="true"/>
+	<classpathentry kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.8.1.2/2f8717d96eafe3eef3de445ba653f142d54ddab1/derby-10.8.1.2.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/joseph/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.8.2/dc40b58e487595d522d4cbe2417e61ead41555c8/junit-dep-4.8.2-sources.jar" kind="lib" path="/Users/joseph/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.8.2/127b170317b80223b74b5a17ffbe44bd4b12e532/junit-dep-4.8.2.jar" exported="true"/>
+</classpath>

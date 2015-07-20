@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Aug 14 14:30:32 MST 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0131-ca34-0465-000004693b10 
+on database directory /Users/joseph/Dropbox/Training/Groovy and Grails II/code/master/groovyLab/derbyDB  with class loader sun.misc.Launcher$AppClassLoader@27a8c4e7 
+Loaded from file:/Users/joseph/.gradle/cache/org.apache.derby/derby/jars/derby-10.8.1.2.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_26-b03-383-11A511
+user.dir=/Users/joseph/Dropbox/Training/Groovy and Grails II/code/master/groovyLab
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

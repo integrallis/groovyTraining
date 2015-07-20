@@ -1,0 +1,13 @@
+ReadMe Documentation
+
+In order to build tests run the following :
+
+# To run all the tests
+gradle test
+
+
+-Dtest.single
+
+"gradle -Dtest.single=a/b/ test" 
+
+The Items in inClass are going to be items that we cover together in class together.

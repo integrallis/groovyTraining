@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="2" hostname="Josephs-MacBook-Air.local" name="com.tekspike.Lab1_5Tests" tests="2" time="0.017" timestamp="2011-09-21T02:40:31">
+  <properties />
+  <testcase classname="com.tekspike.Lab1_5Tests" name="testMetaClassing" time="0.0060">
+    <failure message="groovy.lang.MissingMethodException: No signature of method: static com.tekspike.Lab1_0_Iterations.metaClassCollection() is applicable for argument types: () values: []" type="groovy.lang.MissingMethodException">groovy.lang.MissingMethodException: No signature of method: static com.tekspike.Lab1_0_Iterations.metaClassCollection() is applicable for argument types: () values: []
+	at com.tekspike.Lab1_5Tests.testMetaClassing(Lab1_5Tests.groovy:17)
+</failure>
+  </testcase>
+  <testcase classname="com.tekspike.Lab1_5Tests" name="testMetaClassingWithAMap" time="0.0010">
+    <failure message="groovy.lang.MissingMethodException: No signature of method: static com.tekspike.Lab1_0_Iterations.metaClassCollection() is applicable for argument types: () values: []" type="groovy.lang.MissingMethodException">groovy.lang.MissingMethodException: No signature of method: static com.tekspike.Lab1_0_Iterations.metaClassCollection() is applicable for argument types: () values: []
+	at com.tekspike.Lab1_5Tests.testMetaClassingWithAMap(Lab1_5Tests.groovy:33)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
