@@ -33,11 +33,6 @@ dependencies {
 	testRuntime "org.apache.derby:derby:10.8.1.2"
 }
 
-// creates bootstrap files (gradlew etc.) for Gradle build (not required for using Spock)
-task wrapper(type: Wrapper) {
-  gradleVersion = '2.5'
-}
-
 
 
 
